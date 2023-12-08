@@ -1,4 +1,4 @@
-# Sorting Algorithms Project 1
+# Sorting Algorithms Project
 
 This is a Python program that implements various sorting algorithms and visualizes their runtime.
 
