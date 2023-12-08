@@ -47,8 +47,9 @@ Or you can directly run the `sorting.py` file using Python.
 3. Click the "Run" button to run the algorithm and visualize the runtime for the selected algorithm
 4. Optionally, click "Run All Algorithms" button to plot the runtimes for all the algorithms included in the program for the selected input size.
 
-## References
 
-- [Sorting Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
-- [Tkinter tutorial](https://www.tutorialspoint.com/python/python_gui_programming.htm)
-- [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
+### Output : 
+<img width="534" alt="Screenshot 2023-12-08 at 4 21 54 PM" src="https://github.com/sxs6596/Sorting_Algorithms/assets/127999061/51895bf7-8180-4f81-9b37-1fc3027b9fee">
+<img width="678" alt="Screenshot 2023-12-08 at 4 22 34 PM" src="https://github.com/sxs6596/Sorting_Algorithms/assets/127999061/f74cce89-9ac2-44e4-93ba-b9ac34eae5e0">
+<img width="654" alt="Screenshot 2023-12-08 at 4 23 05 PM" src="https://github.com/sxs6596/Sorting_Algorithms/assets/127999061/4db563af-7690-40f5-87d6-14f4f3fe380e">
+
